@@ -1,0 +1,24 @@
+{
+  "prefix": "+",
+  "adminID": "798979301349261342",
+  "renk": "#01CFFE",
+  "sahip": "539405761533575179",  
+  
+  
+  "jailYetkiliRolID": "811986058501554176",
+  "jailedRolID": "811998657317568553",
+  "jailedRolİsim": "Cezalı",
+  
+  "muteYetkiliRolID": "811986022166036521",
+  "mutedRolID": "820370545187094548",
+  "mutedRolİsim": "ꂑ Chat Mute",
+  
+   "vmuteYetkilisiRolID": "811986022166036521",
+  
+  "jailLogID": "812241397860007946",
+  "unjailLogID": "812241397860007946",
+  "muteLogKanalID": "833277804359581737",
+  "unmuteLogKanalID": "833277804359581737",
+  "vmuteLogKanalID": "833278167966810132",
+  "unvmuteLogKanalID": "833278167966810132"
+}
